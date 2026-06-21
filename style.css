@@ -1,0 +1,68 @@
+body {
+    font-family: "Tahoma";
+    background: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 20px;
+}
+
+.form, .orders {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input, textarea {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background: #ff0066;
+    color: white;
+    border: none;
+    padding: 12px;
+    width: 95%;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.branch-btn {
+    display: block;
+    background: #008cff;
+    color: white;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.admin-btn {
+    display: inline-block;
+    background: #444;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+li {
+    background: #eee;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    text-align: right;
+}
